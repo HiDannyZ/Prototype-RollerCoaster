@@ -7,8 +7,10 @@
 
 - SkyBox
 - Texture on Track
-- The Track itself
+- The Track design itself
 - Camera Control
+- Lighting of normals
+
 
 
 ## How was the Track Created?
