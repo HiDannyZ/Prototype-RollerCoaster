@@ -3,12 +3,17 @@
 ## Disclaimer!
   I am unfortunately not able to share this source code due to academic integerity. However, I am able to share the executable and media files, so any interested people are able to run the application themselves. 
 
-## Things I Created:
+## Things that was Implemented:
 
 - SkyBox
-- Texture on Cubes
-- HeightMap
-- Transformations of the cube
+- Texture on Track
+- The Track itself
+- Camera Control
+
+
+## How was the Track Created?
+
+   We utilized 
 
 ##  Preamble
 Press the following keys U,I,O to increase transformationn
