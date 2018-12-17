@@ -10,9 +10,6 @@ The Program was written in C++ utilizing:
 ### Video
 [![YouTubeThumbNail](https://github.com/HiDannyZhu/Prototype-RollerCoaster/blob/master/YouTubeThumbNail.png)](https://www.youtube.com/watch?v=FFaznvya36A "Everything Is AWESOME")
 
-[![YoutubeImage](https://github.com/HiDannyZhu/Transformations-and-Heightmaps-in-3D/blob/master/YoutubeImage.png)](https://www.youtube.com/watch?v=Z9tJMM_5zTE "Everything Is AWESOME")
-
-
 ## Contact for any Questions
 - Danny Zhu
   - [Linkedin](https://www.linkedin.com/in/danny-zhu-8b6556119/),
