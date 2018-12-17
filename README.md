@@ -8,7 +8,10 @@ The Program was written in C++ utilizing:
 - Microsoft Visual Studios C++.
   
 ### Video
-[![YouTubeThumbNail](https://github.com/HiDannyZhu/Prototype-RollerCoaster/master/YouTubeThumbNail.png)](https://www.youtube.com/watch?v=FFaznvya36A "Everything Is AWESOME")
+[![YouTubeThumbNail](https://github.com/HiDannyZhu/Prototype-RollerCoaster/blob/master/YouTubeThumbNail.png)](https://www.youtube.com/watch?v=FFaznvya36A "Everything Is AWESOME")
+
+[![YoutubeImage](https://github.com/HiDannyZhu/Transformations-and-Heightmaps-in-3D/blob/master/YoutubeImage.png)](https://www.youtube.com/watch?v=Z9tJMM_5zTE "Everything Is AWESOME")
+
 
 ## Contact for any Questions
 - Danny Zhu
