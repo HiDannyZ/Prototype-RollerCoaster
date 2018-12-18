@@ -23,10 +23,14 @@ The Program was written in C++ utilizing:
 
 ### SkyBox
 ### Track
-![Hi](https://github.com/HiDannyZhu/Prototype-RollerCoaster/blob/master/CatmullRomPic.png)
+![Hi](https://github.com/HiDannyZhu/Prototype-RollerCoaster/blob/master/CatmullRomPic2.png)
+
 
 ### Camera Control
 ![Hi](https://github.com/HiDannyZhu/Prototype-RollerCoaster/blob/master/CatmullRomPic.png)
+
+
+Utilzing 
 
 ### Basic Shading: Lighting of Normals
 When light hits an object, an important fraction of it is reflected in all directions.
@@ -47,6 +51,11 @@ By accurately computing the normals of my track, the lighting on my track produc
 ## How was the Track Created?
 
    We utilized 
+   
+## Source for Images:
+https://www.mvps.org/directx/articles/catmull/
+catmullRom.pdf
+
 
 ##  Preamble
 
