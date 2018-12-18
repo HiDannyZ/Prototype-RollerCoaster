@@ -50,8 +50,9 @@ By accurately computing the normals of my track, the lighting on my track produc
   Double-click Project2.exe. 
 
    
-## Source for Images:
+## Source for Images and more info:
 https://www.mvps.org/directx/articles/catmull/
+
 catmullRom.pdf
 
 
