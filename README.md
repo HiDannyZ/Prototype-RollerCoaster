@@ -27,7 +27,7 @@ The Program was written in C++ utilizing:
 
 
 ### Camera Control
-![Hi](https://github.com/HiDannyZhu/Prototype-RollerCoaster/blob/master/CatmullRomPic.png)
+<img src="CatmullRomPic.png" width="600">
 
 
 Utilzing 
