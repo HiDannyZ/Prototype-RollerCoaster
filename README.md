@@ -6,7 +6,6 @@
 The Program was written in C++ utilizing:
 - OpenGL
 - Microsoft Visual Studios C++.
-  
 ### Video
 [![YouTubeThumbNail](https://github.com/HiDannyZhu/Prototype-RollerCoaster/blob/master/YouTubeThumbNail.png)](https://www.youtube.com/watch?v=FFaznvya36A "Everything Is AWESOME")
 
@@ -24,8 +23,10 @@ The Program was written in C++ utilizing:
 
 ### SkyBox
 ### Track
+![Hi](https://github.com/HiDannyZhu/Prototype-RollerCoaster/blob/master/CatmullRomPic.png)
 
 ### Camera Control
+![Hi](https://github.com/HiDannyZhu/Prototype-RollerCoaster/blob/master/CatmullRomPic.png)
 
 ### Basic Shading: Lighting of Normals
 When light hits an object, an important fraction of it is reflected in all directions.
