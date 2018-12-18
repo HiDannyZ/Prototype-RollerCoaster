@@ -22,6 +22,20 @@ The Program was written in C++ utilizing:
 - Camera Control
 - Lighting of normals
 
+### SkyBox
+### Track
+
+### Camera Control
+
+### Basic Shading: Lighting of Normals
+When light hits an object, an important fraction of it is reflected in all directions.
+When a certain flux of light arrives at the surface, this surface is illuminated differently according to the angle at which the light arrives. If the light is perpendicular to the surface, it is concentrated on a small surface. If it arrives at a gazing angle, the same quantity of light spreads on a greater surface. This means that when we compute the colour of a pixel, the angle between the incoming light and the surface normal matters.
+
+By accurately computing the normals of my track, the lighting on my track produced a very high degree of visual realism.
+
+    
+  
+
 ## How to Run the Program:
   Download the Project_1.rar
   
