@@ -27,7 +27,7 @@ The Program was written in C++ utilizing:
 
 
 ### Camera Control
-<img src="CatmullRomPic.png" width="600">
+<img src="CatmullRomPic.png">
 
 
 Utilzing 
