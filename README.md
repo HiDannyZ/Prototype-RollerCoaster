@@ -23,7 +23,7 @@ The Program was written in C++ utilizing:
 
 ### SkyBox
 ### Track
-<img src="CatmullRomPic2.png" width="700">
+<img src="CatmullRomPic2.png" width="500">
 
 
 ### Camera Control
