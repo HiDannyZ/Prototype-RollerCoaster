@@ -23,7 +23,7 @@ The Program was written in C++ utilizing:
 
 ### SkyBox
 ### Track
-![Hi](https://github.com/HiDannyZhu/Prototype-RollerCoaster/blob/master/CatmullRomPic2.png)
+<img src="CatmullRomPic2.png" width="700">
 
 
 ### Camera Control
