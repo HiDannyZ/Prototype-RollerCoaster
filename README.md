@@ -15,13 +15,11 @@ The Program was written in C++ utilizing:
   - chdannyzhu@yahoo.com
   
 ## Features:
-- SkyBox
-- Texture on Track
-- The Track design itself
-- Camera Control
-- Lighting of normals
 
 ### SkyBox
+
+The roller-coaster is contained in a skybox: a cube with textures of ground,horizon, and sky that fit together to appear as a seamless large environment. To give my skybox a more realistic effect of being infinitely far away, I had it unaffected by the translation of the camera. Thus, no matter how far I moved, the skybox will never get closer.
+  
 ### Track
 <p align="center">
   <img src="CatmullRomPic2.png">
@@ -42,19 +40,13 @@ When a certain flux of light arrives at the surface, this surface is illuminated
 
 By accurately computing the normals of my track, the lighting on my track produced a very high degree of visual realism.
 
-    
-  
-
 ## How to Run the Program:
-  Download the Project_1.rar
+  Download the Project_2.rar
   
   KEEP ALL FILE NAMES THE SAME and the same order.
   
-  Double-click Project1.exe. 
+  Double-click Project2.exe. 
 
-## How was the Track Created?
-
-   We utilized 
    
 ## Source for Images:
 https://www.mvps.org/directx/articles/catmull/
