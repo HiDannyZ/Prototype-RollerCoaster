@@ -25,7 +25,7 @@ The roller-coaster is contained in a skybox: a cube with textures of ground,hori
   <img src="CatmullRomPic2.png">
 </p>
 
-Catmull-Rom splines have C^1 continuity, local control, and interpolation. They are fantastic in ensuring C^1 continuity and having smooth curves. The Catmull-Rom spline essentially functions by taking 4 points and giving back positions from the interpolation between the 2nd and 3rd points
+Catmull-Rom splines have C^1 continuity, local control, and interpolation. They are fantastic in ensuring C^1 continuity and having smooth curves. The Catmull-Rom spline essentially functions by taking 4 points and giving back positions from the interpolation between the 2nd and 3rd points where the starting position would be the integer 0 at the 2nd point and ending position would be the integer 1 at the 3rd point. With this, I stored these positions to shape the curve and track itself.
 
 To create the track itself, I modified a track file containing a collection of control points that the track will go through. 
 
