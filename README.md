@@ -34,7 +34,7 @@ To create the track itself, I modified a track file containing a collection of c
   <img src="CatmullRomPic.png">
 </p>
 
-Utilzing catmull-spline and conservation of energy, the camera follows the interpolated control points between 2 points (from 0 to 1 as indicated from the picture). We use these control points to help direct the camera's motion and its orientation byusing it to calculate the overall velocity in the system depending on the level of height.
+Utilzing catmull-spline and conservation of energy, the camera follows the interpolated control points between 2 points (from 0 to 1 as indicated from the picture). We use these control points to help direct the camera's motion and its orientation by using it to calculate the overall velocity in the system depending on the level of height.
 
 ### Basic Shading: Lighting of Normals
 When light hits an object, an important fraction of it is reflected in all directions.
