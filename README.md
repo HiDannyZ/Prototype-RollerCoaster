@@ -10,12 +10,6 @@ The Program was written in C++ utilizing:
 # Video
 [![YouTubeThumbNail](https://github.com/HiDannyZhu/Prototype-RollerCoaster/blob/master/YouTubeThumbNail.png)](https://www.youtube.com/watch?v=FFaznvya36A "Everything Is AWESOME")
 
-# Contact for any Questions
-- Danny Zhu
-  - [Linkedin](https://www.linkedin.com/in/danny-zhu-8b6556119/)
-  - [Personal Website](https://hidannyzhu.github.io/)
-  - chdannyzhu@yahoo.com
-  
 # Features:
 
 ## SkyBox
